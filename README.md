@@ -2,33 +2,29 @@
 
 ## 数学基础
 
-### [矩阵微积分](book/math/矩阵微积分.pdf)
+### [矩阵微积分](note/math/矩阵微积分.pdf)
 
-### [数学分析](book/math/Calculus.pdf)
+### [数学分析](note/math/Calculus.pdf)
 
-### [线性代数](book/math/LinearAlgebra.pdf)
+### [线性代数](note/math/LinearAlgebra.pdf)
 
-### [概率论](book/math/Prob.pdf)
+### [概率论](note/math/Prob.pdf)
 
 ## 机器学习
 
 ### 快速入门
 
-[吴恩达](book/ml/Wu Enda.pdf)
+[吴恩达](note/ml/WuEnda.md)
 
 ### 深入理解
 
-[李航《统计学习方法》](book/ml/统计学习方法.pdf)以及 [coding](code/LiHang)
+[李航《统计学习方法》](note/ml/统计学习方法.md)以及 [coding](code/LiHang)
 
-[Chrisopher Bishop《模式识别与机器学习》](book/ml/模式识别与机器学习PRML_Chinese_vision.pdf)
+[Chrisopher Bishop《模式识别与机器学习》](note/ml/模式识别与机器学习.md)
 
-周志华
+[周志华](note/ml/周志华.md)
 
-​	[西瓜书](book/ml/机器学习周志华.pdf)
-
-​	南瓜书
-
-[Peler Harrington《机器学习实战》](book/ml/机器学习实战 中文双页版.pdf)
+[Peler Harrington《机器学习实战》](note/ml/机器学习实战.md)
 
 ## 深度学习
 
