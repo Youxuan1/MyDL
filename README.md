@@ -30,7 +30,15 @@
 
 ### 快速入门
 
+[吴恩达](note/dl/WuEnda.md)
 
+[李宏毅](note/dl/LiHongyi.md)
+
+[动手做深度学习PyTorch版](note/dl/d2l_pytorch.md)
+
+[《神经网络与深度学习》](note/dl/nn_dl.md)
+
+[《Python神经网络编程》](note/dl/python_nn_programming.md)
 
 #### 计算机视觉
 
@@ -60,6 +68,22 @@
 
 ## 工程
 
+### 编程
+
+
+
+### 操作系统
+
+
+
+### 算法
+
+
+
+### 数据结构
+
+
+
 
 
 
@@ -72,3 +96,22 @@
 
 ## 工具
 
+### 框架
+
+
+
+
+
+### 命令
+
+
+
+
+
+### 可视化
+
+
+
+
+
+### 
